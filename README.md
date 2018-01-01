@@ -1,3 +1,4 @@
 # hello-world
-this repository is my android library app for begin development.
-hi my name is farzam , I want make an android app for teach C# and Java and Sell it in Cafe Bazar and Google play ( then I can create a bank acount in sangapoor ) and earn money .
+My name is Farzam, I'm a begginner developer and looking for learning Java and Wordpress, to make an apk and a site; So I registered in github to make my learning prosses faster.
+oh, and you can have use this email to send your messages : farzam.dev@gmail.com
+Thanks.
